@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvagrawat&show_icons=true&locale=en&layout=compact" alt="dhruvagrawat" /></p>
 
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)
+[![An image of @dhruvagrawat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhruvagrawat)](https://holopin.io/@dhruvagrawat)
