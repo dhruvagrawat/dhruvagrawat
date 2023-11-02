@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Development**
 
-- 👨‍💻 All of my projects are available at [www.dhruvagrawat.live](www.dhruvagrawat.live)
+- 👨‍💻 All of my projects are available at [www.dhruvagrawat.live](https://www.dhruvagrawat.live)
 
 - 📫 How to reach me **agrawatdhruv@gmail.com**
 
