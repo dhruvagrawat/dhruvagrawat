@@ -27,4 +27,4 @@
 
 [![An image of @dhruvagrawat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhruvagrawat)](https://holopin.io/@dhruvagrawat)
 
-[](https://leetcard.jacoblin.cool/dhruvagrawat?theme=dark&font=Noto%20Serif%20Georgian&ext=heatmap)
+[![An image of @dhruvagrawat's Holopin badges, which is a link to view their full Holopin profile](https://leetcard.jacoblin.cool/dhruvagrawat?theme=dark&font=Noto%20Serif%20Georgian&ext=heatmap)
