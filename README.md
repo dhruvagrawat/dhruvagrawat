@@ -22,7 +22,7 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/dhruvagrawat?theme=dark&font=Noto%20Serif%20Georgian&ext=heatmap)
 
-[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=<YOUR_USERNAME>)](https://github.com/napiyo/geeksForGeeksStatsAPI)
+[![Narendra's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=<YOUR_USERNAME>)]
 
 
 <h3 align="left">Languages and Tools:</h3>
