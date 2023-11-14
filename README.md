@@ -20,9 +20,6 @@
 <a href="https://auth.geeksforgeeks.org/user/dhruvagrawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dhruvagrawat" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
-
-
 ![Leetcode Stats](https://leetcard.jacoblin.cool/dhruvagrawat?theme=dark&font=Noto%20Serif%20Georgian&ext=heatmap)
 
 <h3 align="left">Languages and Tools:</h3>
