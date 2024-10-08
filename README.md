@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dhruv Agrawat</h1>
 <h3 align="center">A passionate Softwere developer from India</h3>
 
-- 🔭 I’m currently working on [Leetcode Clone](https://github.com/dhruvagrawat/leetcode-clone)
-
 - 🌱 I’m currently learning **Development**
 
-- 👨‍💻 All of my projects are available at [www.dhruvagrawat.live](https://www.dhruvagrawat.live)
 
 - 📫 How to reach me **agrawatdhruv@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1SJGPHlV5FE6CoIZOkmLhpZaCfcnwAa8H?usp=sharing](https://drive.google.com/drive/folders/1SJGPHlV5FE6CoIZOkmLhpZaCfcnwAa8H?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
